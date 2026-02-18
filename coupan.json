@@ -1,6 +1,6 @@
 {
   "active": true,
-  "showInput": true,
+  "showInput": false,
   "code": "SAVE20",
   "type": "percent",
   "value": 20
