@@ -1,0 +1,8 @@
+{
+  "active": true,
+  "code": "SAVE20",
+  "type": "percent", 
+  "value": 20,
+  "minPrints": 10,
+  "maxDiscount": 100
+}
