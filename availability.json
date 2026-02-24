@@ -1,4 +1,5 @@
 {
-  "status": true,
+  "status": false,
+  "title": "⚠️ Service Unavailable",
   "message": "Unavailable for today, come back tomorrow"
 }
